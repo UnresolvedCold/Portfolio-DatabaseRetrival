@@ -30,7 +30,7 @@ firebase init functions
 
 1. Now copy the file,'./functions/index.js' from github to your local folder ('functions').
 1. Modify the index.js file if you are having some different folder structure than mine in firebase database.
-1 Atlast deploy the function by 
+1. Atlast deploy the function by 
 ```
 firebase deploy
 ```
